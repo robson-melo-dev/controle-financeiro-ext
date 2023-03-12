@@ -5,9 +5,11 @@
   "version": "1.0",
   "action": {
     "default_popup": "index.html",
-    "default_icon": "controle-financeiro.png"
+    "default_icon": "icon.png"
   },
   "permissions": [
-    "scripting"
+    "scripting",
+    "storage"	,
+    "unlimitedStorage"
   ]
 }

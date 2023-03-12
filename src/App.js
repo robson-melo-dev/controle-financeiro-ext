@@ -1,5 +1,5 @@
 import "./App.css";
-import { Header } from "./components/Header";
+import { Header } from "./components/Header/Header";
 import { Balanco } from "./components/Balanco";
 import { ReceitasDespesas } from "./components/ReceitasDespesas";
 import { Transacoes } from "./components/Transacoes";
