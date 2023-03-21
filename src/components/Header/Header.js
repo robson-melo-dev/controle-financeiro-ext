@@ -64,6 +64,7 @@ export const Header = () => {
             pessoais.
             Gostou da extensão? Considere fazer uma doação pelo PIX telefone 55981182976
           </p>
+          <a href="https://robson-melo-dev.github.io/controle-financeiro-privacy/"> Política de Privacidade</a>
           <p>
             Criado por: <span className="name">Robson Melo de Souza</span>
           </p>

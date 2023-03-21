@@ -25,6 +25,7 @@
 }
 
 .modal{
+    color: #090C08;
     display: flex;
     flex-direction: column;
     padding: 1rem;    
@@ -42,7 +43,7 @@
 .links{
     display: flex;
     gap: 1rem;
-}
+} 
 .link{
     text-decoration: none;
     color: blueviolet;

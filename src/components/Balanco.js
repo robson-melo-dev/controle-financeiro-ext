@@ -9,7 +9,7 @@ export const Balanco = () => {
   return (
     <>
       <h4>Seu saldo</h4>
-      <h1>R${total}</h1>
+      <h1 className={total>0 ? 'positive' : 'negative'}>R${total}</h1>
     </>
   );
 };
